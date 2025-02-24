@@ -1,7 +1,7 @@
 # javaScript-todolist00
 A simple Todo List application built with JavaScript, HTML, and CSS.
 
-##preview
+## preview
 
 ![Image](https://github.com/user-attachments/assets/2f62ce51-39e1-45fd-b3e8-228cd37f260b)
 
